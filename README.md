@@ -9,7 +9,8 @@ The API is hosted at: [https://upraised-0ski.onrender.com](https://upraised-0ski
 ## 📑 Swagger Documentation
 
 API docs are available at: [https://upraised-0ski.onrender.com/docs](https://upraised-0ski.onrender.com/docs)
-**`Generate the token using auth api and set the token in swagger doc using Authorize button`**
+
+**Generate the token using auth api and set the token in swagger doc using Authorize button**
 
 ## 📖 Features
 
